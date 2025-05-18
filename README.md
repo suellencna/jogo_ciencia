@@ -8,7 +8,7 @@ O jogo inicia pedindo ao usuário para escolher um nível de dificuldade (inicia
 
 ## Tecnologias Utilizadas
 
-- Python
+- 'Python'
 - Biblioteca `google-generativeai` (para interagir com a API do Google Gemini)
 - Google Colab (ambiente de desenvolvimento recomendado)
 
